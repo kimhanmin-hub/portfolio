@@ -17,7 +17,7 @@ function LandingPage() {
                                     className="mr-[1vw] w-[14vw] rounded-md h-[20vw] -top-[2.3vw] relative overflow-hidden"
                                     >
                                         <img 
-                                            src="/public/face.jpg" 
+                                            src="/face.jpg" 
                                             alt="얼굴1"
                                             className="w-full h-full object-cover"
                                         />
